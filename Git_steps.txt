@@ -1,7 +1,21 @@
 Kā strādāt ar Git no VSCode?
-1. GitHub vietnē esošu datņu lejupielāde, rediģēšana, izmaiņu fiksēšana un augšupielāde atpakaļ Git Hub serverī.
-Atrod interesējošu GitHub repozitoriju, piemēram, https://github.com/startitfonds/HTML-prog-skolotaji-2019-finalversija
-Izveido tās zaru savā GitHub kontā - poga Fork GitHub lapā
+
+1. GitHub vietnē esošu datņu lejupielāde, rediģēšana, izmaiņu fiksēšana un augšupielāde atpakaļ GitHub serverī.
+
+Atrodam interesējošu GitHub repozitoriju, piemēram, https://github.com/startitfonds/HTML-prog-skolotaji-2019-finalversija
+Izveidojam tās zaru savā GitHub kontā - poga Fork GitHub lapā
+Spiežam Clone or Download - Open in Desktop
+Nokļūstam GitHubDesktop programmā un izvēlamies Open in Visual Studio Code
+Nokļūstam Visual Studio Code programmā, atveram interesējošo datni. GitHubDektop var aizvērt!
+Atkārtot Visual Studio Code programmā
+    rediģējam interesējošo datni
+    saglabājam izmaiņas
+    izpildām Stage Changes (+)
+    ierakstām kaut ko iekš Message un izpildām Commit (V)
+līdz gatavs varinats ko gribam ielikt GitHubā
+Izpildām darbību View-Command Palette.. (vai CTRL+SHIFT+p)
+Uzrakstām vai izvēlamies komandu Git push
+GitHUbā pārliecināmies par jaunās versijas augšupielādi
 
 2. Jaunu versiju kontrolei un augšupielādei GitHub serverī paredzētu datņu izveide ar VSCOde - piemērs.
 Izveido jaunu mapi, kurā liksim lietas, kas jāpakļauj versiju kontrolei.
