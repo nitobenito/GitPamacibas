@@ -17,10 +17,18 @@ Izpildām darbību View-Command Palette.. (vai CTRL+SHIFT+p)
 Uzrakstām vai izvēlamies komandu Git push
 GitHUbā pārliecināmies par jaunās versijas augšupielādi
 
-2. Jaunu versiju kontrolei un augšupielādei GitHub serverī paredzētu datņu izveide ar VSCOde - piemērs.
-Izveido jaunu mapi, kurā liksim lietas, kas jāpakļauj versiju kontrolei.
-Mapē izveido jaunu failu.
-Izpilda darbību View-Command Palette.. (vai CTRL+SHIFT+p) un uzraksta vai izvēlas komandu Initialize Repository un apstiprinam mapi versiju kontrolei.
-Kaut ko ieraksta failā, saglabā izmaiņas
-Izpilda Stage Changes (+)
-Ieraksta kaut ko iekš Message un izpilda Commit (V)
+2. Jaunu versiju kontrolei un augšupielādei GitHub serverī paredzētu datņu izveide ar VSCOde - varbūt nav ideāli, bet tas strādā.
+Izveido savā datorā jaunu mapi, kurā liksim lietas, kas jāpakļauj versiju kontrolei.
+Mapē izveido jaunu datni.
+Visual Studio Code programmā izpilda darbību View-Command Palette.. (vai CTRL+SHIFT+p) 
+Uzraksta vai izvēlas komandu Initialize Repository un apstiprinam mapi versiju kontrolei.
+Atkārtot Visual Studio Code programmā
+    Kaut ko ieraksta datnē, saglabā izmaiņas
+    Izpilda Stage Changes (+)
+    Ieraksta kaut ko iekš Message un izpilda Commit (V)
+līdz gatavs variants ko gribam ielikt GitHubā
+Savā GitHub kontā sadaļā Repozitoriji spiežam pogu New un izveidojam jaunu repozitoriju
+GitHub vietne uzreiz piedāvās izveidot arī datni readme - vajag klausīt un to izdarīt
+Jaunajā GitHub repozitorijā spiežam UploadFiles un augšupielādējam datni
+
+3. Ja gribas turpināt rediģēt 2.punktā izveidoto datni, ar jauno repozitoriju atkārto 1. punkta darbībās
